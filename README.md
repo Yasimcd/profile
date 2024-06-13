@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML and CSS<br>💬 Ask me about Python, Aviation<br>⚡ Fun fact: I was raised in the Caribbean <br>     but I also lived in Alaska for 12 years
+🌱 I’m currently learning Software Development - Data Analytics Concentration<br>💬 Ask me about Python, Aviation<br>⚡ Fun fact: I was raised in the Caribbean <br>     but I also lived in Alaska for 12 years
 
 
 ## 🌐 Socials:
